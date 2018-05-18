@@ -1,3 +1,3 @@
 # notesOnJavaProgrammingLanguage
 
-This repository will contain notes on javaprogramming language
+This repository will contain notes on java programming language
