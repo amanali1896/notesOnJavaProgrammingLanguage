@@ -1,1 +1,7 @@
+__________________________________________________________________________________________________________________________________________
+Understanding the Java Class Structure
 
+1) In Java programs, classes are the basic building blocks. When defning a class, you describe
+all the parts and characteristics of one of those building blocks. To use most classes, you
+have to create objects. An object is a runtime instance of a class in memory. All the various
+objects of all the different classes represent the state of your program.
