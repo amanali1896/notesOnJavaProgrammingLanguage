@@ -10,8 +10,9 @@ objects of all the different classes represent the state of your program.
  
 2) Fields and Methods:
   Java classes have two primary elements: methods, often called functions or procedures in
-other languages, and felds, more generally known as variables. Together these are called the
+other languages, and fields, more generally known as variables. Together these are called the
 members of the class.Variables hold the state of the program, and methods operate on that
 state.It’s the programmer who creates and arranges these elements in such a way that
 the resulting code is useful and, ideally, easy for other programmers to understand. a word with special meaning is a keyword.
+
 
